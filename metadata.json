@@ -1,0 +1,6 @@
+{
+  "name": "Final",
+  "description": "Una aplicación para generar recibos de pago para los talleres de la Biblioteca Euforión, produciendo un documento PDF A4 con original y copia.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
